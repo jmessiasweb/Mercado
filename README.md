@@ -1,2 +1,2 @@
-# Mercado-Shop
+# Mercado
 projeto feito na linguagem Python
